@@ -1,0 +1,31 @@
+2024-01-16T15:14:43+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_65a69d63163behttplocalhostTeoPetShopwp-admin","smb_name":"PROD","redirect_url":"http:\/\/localhost\/TeoPetShop\/wp-admin\/"}
+ ajax: no
+2024-01-16T15:14:43+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Tt-Logid: 202401161514426287795E323D77613ED9,202401161514426287795E323D77613ED9
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+x-tt-trace-host: 01a99d651891559e50bcca78ecff62133f546ff8a652220eb7bd2fc6b064821bf2601342d6433f684108b0106d5656991587b2dcee177895da31ce1dcdf866fc5f8df7900914e794179ea2af10c0efb35e1e401b4d8916903bd7bdb0208fa2a30a8788de67206223110ce587ef49b8be47
+x-tt-trace-id: 00-2401161514426287795E323D77613ED9-1394363F64EDF347-00
+Server: TLB
+Content-Encoding: gzip
+Content-Length: 212
+X-Origin-Response-Time: 57,23.54.124.210
+X-Akamai-Request-ID: 2078dbbc.7abce380
+Date: Tue, 16 Jan 2024 15:14:43 GMT
+X-Cache: TCP_MISS from a27-77-82-149.deploy.akamaitechnologies.com (AkamaiGHost/11.4.0.1-53785976) (-)
+Connection: close
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-54-124-210.deploy.akamaitechnologies.com (AkamaiGHost/11.4.0.1-53785976) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=43, origin; dur=57
+Server-Timing: inner; dur=52
+X-Parent-Response-Time: 96,27.77.82.149
+
+{"code":0,"msg":"ok","data":{"redirect_uri":"http:\/\/localhost\/TeoPetShop\/wp-admin\/","app_id":"7324714894333313026","app_secret":"0d1c74692e9b54ee4bc31b467170cef8101d4911","external_data_key":"a6ca0396-cefd-400c-a4a7-8b45648f6b3e"}}
+
+2024-01-16T16:52:02+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit ViewContent
+2024-01-16T16:52:02+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"

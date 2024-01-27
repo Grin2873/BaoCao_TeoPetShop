@@ -1,0 +1,10 @@
+2024-01-24T15:42:57+00:00 CRITICAL Cannot redeclare my_custom_translations() (previously declared in D:\xampp\htdocs\teopetshop\wp-content\themes\flatsome-child\functions.php:3) in D:\xampp\htdocs\teopetshop\wp-content\themes\flatsome-child\functions.php on line 16
+
+2024-01-24T15:43:21+00:00 CRITICAL Cannot redeclare my_custom_translations() (previously declared in D:\xampp\htdocs\teopetshop\wp-content\themes\flatsome-child\functions.php:3) in D:\xampp\htdocs\teopetshop\wp-content\themes\flatsome-child\functions.php on line 16
+
+2024-01-24T15:43:28+00:00 CRITICAL syntax error, unexpected token ";", expecting ")" in D:\xampp\htdocs\teopetshop\wp-content\themes\flatsome-child\functions.php on line 18
+
+2024-01-24T15:44:11+00:00 CRITICAL Cannot redeclare my_custom_translations() (previously declared in D:\xampp\htdocs\teopetshop\wp-content\themes\flatsome-child\functions.php:3) in D:\xampp\htdocs\teopetshop\wp-content\themes\flatsome-child\functions.php on line 16
+
+2024-01-24T15:44:34+00:00 CRITICAL Cannot redeclare my_custom_translations() (previously declared in D:\xampp\htdocs\teopetshop\wp-content\themes\flatsome-child\functions.php:3) in D:\xampp\htdocs\teopetshop\wp-content\themes\flatsome-child\functions.php on line 16
+
